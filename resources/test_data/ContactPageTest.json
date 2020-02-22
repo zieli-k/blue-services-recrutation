@@ -1,0 +1,10 @@
+{
+  "correctData":
+  {
+    "name": "BlueServices Test",
+    "email": " bs@blueservices.pl",
+    "phone": "+48 123 123 123",
+    "subject": "Przelewy natychmiastowe",
+    "content": "automat test Blueservices"
+  }
+}
